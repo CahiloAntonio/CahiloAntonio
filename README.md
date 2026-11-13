@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Cahilo Antonio 👋</h1>
 
 <p align="center">
-  <b>Engenharia de Software</b> · <b>Desenvolvimento Web</b> · <b>Kulinga Tech</b><br>
+  <b>Engenharia de Software</b> · <b>Desenvolvimento Web</b> · <b>Antonio-Dev</b><br>
   📍 Angola 🇦🇴
 </p>
 
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor de software em Angola, com foco em **Engenharia de Software** e na criação de sistemas de gestão que resolvem problemas reais de negócios e instituições de ensino. Trabalho sob a marca **Kulinga Tech**, construindo soluções web práticas, organizadas e fáceis de usar.
+Sou desenvolvedor de software em Angola, com foco em **Engenharia de Software** e na criação de sistemas de gestão que resolvem problemas reais de negócios e instituições de ensino. Trabalho sob a marca **Antonio-Dev**, construindo soluções web práticas, organizadas e fáceis de usar.
 
 ## 🎯 Áreas de atuação
 
@@ -43,4 +43,4 @@ Acompanhe o meu trabalho aqui no GitHub: [@CahiloAntonio](https://github.com/Cah
 
 ---
 
-<p align="center"><i>Kulinga Tech · Soluções em software feitas em Angola</i></p>
+<p align="center"><i>Antonio-Dev · Soluções em software feitas em Angola</i></p>
